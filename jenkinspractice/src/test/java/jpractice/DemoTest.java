@@ -28,6 +28,7 @@ public class DemoTest {
 	System.out.println("jenkins");
 	System.out.println("hello");
 	System.out.println("welcome");
+	System.out.println("welcome to class");	
 	
 	}
 
